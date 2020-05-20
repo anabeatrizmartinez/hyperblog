@@ -1,5 +1,6 @@
 body
 {
+    background: hsl(270, 92%, 14%);
     color: #333;
     text-align: center;
     font-family: Arial;
@@ -10,12 +11,16 @@ body
 
 #cabecera
 {
-    background: hsl(270, 63%, 43%);
+    background-color: hsl(270, 63%, 43%);
+    background-image: url("../imagenes/garfield.jpg");
+    background-size: 25px;
+    background-position: 3px;
+    background-repeat: no-repeat;
     color: white;
     font-weight: 600;
     box-shadow: 0 2px 20px rgba(0, 0, 0, .5);
     margin: 0;
-    padding: .5em;
+    padding: .5em 0 .5em 2em;
 }
 
 #cabecera #tagline
@@ -41,5 +46,7 @@ body
 
 #post
 {
+    height: 100vh;
+    background: #fff;
     padding: 1em;
 }
