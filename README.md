@@ -10,4 +10,6 @@ En este curso vemos de todo:
 * Trucos muy locos del profesor
 * Creado por Mia Queen.
 * Incluye ejemplos en Windows, Linux y Mac.
+* Disponible para todas las edades.
+
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. 
