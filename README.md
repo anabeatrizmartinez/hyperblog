@@ -9,5 +9,5 @@ En este curso vemos de todo:
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Creado por Mia Queen.
-
+* Incluye ejemplos en Windows, Linux y Mac.
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. 
